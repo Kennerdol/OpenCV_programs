@@ -1,2 +1,2 @@
 # OpenCV_programs
-learning Open Source Conputer Vision
+learning Open Source Computer Vision
